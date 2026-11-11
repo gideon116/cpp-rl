@@ -1,0 +1,3 @@
+/Users/gideon/Downloads/game/build/CMakeFiles/cw.dir
+/Users/gideon/Downloads/game/build/CMakeFiles/edit_cache.dir
+/Users/gideon/Downloads/game/build/CMakeFiles/rebuild_cache.dir
